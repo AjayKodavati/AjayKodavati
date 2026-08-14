@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate and driven software engineer with 2+ years of industry experience, currently working at **FactSet Research Systems**. I specialize in building scalable, performant systems — particularly on the backend — with a strong foundation in **Go**, **Node.js**, **Angular.js**, **React.js**, **Vue.js**, and **distributed architectures**. I thrive in backend-heavy environments, but also enjoy developing full-stack applications from the ground up.
+I'm a passionate and driven software engineer with 3+ years of industry experience, currently working at **FactSet Research Systems**. I specialize in building scalable, performant systems — particularly on the backend — with a strong foundation in **Go**, **Node.js**, **Angular.js**, **React.js**, **Vue.js**, and **distributed architectures**. I thrive in backend-heavy environments, but also enjoy developing full-stack applications from the ground up.
 
 
 <div align="center">
